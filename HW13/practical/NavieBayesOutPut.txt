@@ -1,0 +1,5 @@
+$-------------------------------------------$
+My Naive Bayes Implementation accuracy is 96.66666666666667% 
+number of mislabeled points out of a total 30 points : 1 
+number of correct answers is : 29 
+$-------------------------------------------$

@@ -1,0 +1,5 @@
+$-------------------------------------------$
+scikit-learn Naive Bayes accuracy is 93.33333333333333% 
+number of mislabeled points out of a total 30 points : 2 
+number of correct answers is : 28 
+$-------------------------------------------$
